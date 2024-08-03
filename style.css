@@ -15,6 +15,7 @@ p{
     margin: 5px;
     padding: 5px ;
     background-color: #efefef;
+    border: 5px solid;
 }
 .clear {
     clear: left;
